@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this educational portfolio, please cite the repository URL."
+title: "SciPy & Scikit-learn Learning Portfolio"
+version: 3.8.0
+date-released: 2026-10-28
+type: software
+license: CC0-1.0
+authors:
+  - name: "Harpreet Singh"
+repository-code: "https://github.com/harpreetsingh171190-cmyk/scipy-sklearn-ml-portfolio"

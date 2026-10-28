@@ -1,0 +1,16 @@
+name: scipy-2017-sklearn-modern
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pillow
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - joblib
+  - ipywidgets

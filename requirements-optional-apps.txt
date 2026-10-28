@@ -1,0 +1,2 @@
+# Optional interactive dashboard
+streamlit>=1.40
